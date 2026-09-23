@@ -1,4 +1,4 @@
-# Offline Exam Coach
+# Offline Exam tutor
 
 A local AI exam coach powered by the QVAC SDK.
 
